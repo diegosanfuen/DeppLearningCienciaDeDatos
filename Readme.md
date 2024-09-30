@@ -2,6 +2,8 @@
 
 Recibe como entrada el audio de un presidente de EE.UU, y te dice con una alta probabilidad de acpetar de quien se trata.
 
+https://teachablemachine.withgoogle.com/models/4xeYe0jUg/
+
 Distingue entre las voces de: Kamala Harris, Joe Bidem y Donald Trump.
 
 Graficas de precisión del modelo. (Parámetros por defecto):
